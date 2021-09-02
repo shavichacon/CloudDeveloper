@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0000" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-09-02T16:59:57" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Testing to calculator class" timestamp="2021-09-02T16:59:57" tests="2" file="C:\Users\usrAdmin\source\repos\CloudDeveloper\sesion2\CloudDeveloper\test\tools\Calculator.test.ts" time="0.0000" failures="0">
+    <testcase name="Testing to calculator class Testing add operation" time="0.0000" classname="Testing add operation">
+    </testcase>
+    <testcase name="Testing to calculator class substract" time="0.0000" classname="substract">
+    </testcase>
+  </testsuite>
+</testsuites>
